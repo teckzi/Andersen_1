@@ -5,4 +5,4 @@ fun main() {
 
 private fun Any.fastprint() = println(this)
 
-private fun printYo() = println("yo")
+private fun printYo() = println(" yo!")
